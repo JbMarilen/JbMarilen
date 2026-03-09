@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🎓 BSc **Data Science & AI** student at **Dublin City University**
-- 🔐 Interested in **Cybersecurity and AI Safety**
+- 🔐 Interested in **Cybersecurity and AI**
 - 🏴‍☠️ Learning security through **CTF competitions**
 - 🧤 Built a **Low-Cost VR Haptic Glove** for the **BT Young Scientist Exhibition**
 - 🌐 Interested in **Web3 and blockchain security**
@@ -31,6 +31,8 @@
 - 🔍 LLM Red Teaming  
 - 📊 Data Science & Machine Learning  
 - 🏴‍☠️ Capture The Flag (CTF)
+- 📊 On-Chain Data Analysis
+- ☀️ Solana Development
 
 ---
 
@@ -48,4 +50,4 @@
 
 ---
 
-⭐ Always interested in collaborating on projects related to **AI Security, Data Science, and Cybersecurity**.
+⭐ Always interested in collaborating on projects related to **AI, Data Science, and Cybersecurity**.
