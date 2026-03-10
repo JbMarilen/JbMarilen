@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BSc **Data Science & AI** student at **Dublin City University**
+- 🎓 BSc **Data Science & Artificial Intelligence** student at **Dublin City University**
 - 🔐 Interested in **Cybersecurity and AI**
 - 🏴‍☠️ Learning security through **CTF competitions**
 - 🧤 Built a **Low-Cost VR Haptic Glove** for the **BT Young Scientist Exhibition**
